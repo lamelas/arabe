@@ -1,7 +1,30 @@
 site_name: Árabe I
-#site_url: https://lamelas.org/arabe
-#theme:
-#  name: gitbook
+site_url: http://127.0.0.1:8000
+theme:
+    name: material
+    custom_dir: theme_overrides/
+    logo: img/logo.png
+    favicon: img/logo.png
+    features:
+    - navigation.tabs
+    - navigation.expand
+    - toc.integrate
+    - navigation.top
 nav:
     - Alfabeto: alfabeto.md
     - Glossário: glossario.md
+    - Programa: programa.md
+    - Aulas:
+        - Sumários: aulas/index.md
+plugins:
+    - search
+markdown_extensions:
+    - smarty
+    - tables
+extra_css:
+    - css/overrides.css
+    - css/colors.css
+extra_javascript:
+    - https://cdnjs.cloudflare.com/ajax/libs/tablesort/5.2.1/tablesort.min.js
+    - javascripts/tablesort.js
+    - javascripts/highlight.js
