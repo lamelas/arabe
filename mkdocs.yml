@@ -1,0 +1,7 @@
+site_name: Árabe I
+#site_url: https://lamelas.org/arabe
+#theme:
+#  name: gitbook
+nav:
+    - Alfabeto: alfabeto.md
+    - Glossário: glossario.md
