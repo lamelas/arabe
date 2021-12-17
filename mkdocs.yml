@@ -1,5 +1,5 @@
 site_name: Árabe I
-site_url: http://127.0.0.1:8000
+site_url: http://lamelas.org/arabe/
 theme:
     name: material
     custom_dir: theme_overrides/
