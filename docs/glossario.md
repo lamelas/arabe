@@ -58,3 +58,6 @@ famoso | mashuur |
 famosa | mashuura | 
 proibido | mamnuha | 
 conhecido | maaruf | 
+lua | alkamar | اَلقَمَر
+sol | ashmas | اَلشّمَس
+açúcar | açúcar | سُكَّر

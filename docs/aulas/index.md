@@ -16,8 +16,7 @@ Primeiro grupo de letras: ب ت ث ن ي
 
 ## Aula 7 (2021-12-16)
 
-- Aula no Zoom
-- Alif e Hamza
+- [Alif e Hamza](../anexos/aula7/Alif%20ا%20e%20Hamza.pdf)
 - Diálogo utilizando expressões de cortesia
 - Exercício de escrita de palavras
 
@@ -30,3 +29,8 @@ Primeiro grupo de letras: ب ت ث ن ي
 
 - [Apresentação pessoal em árabe (nome, nacionalidade, onde se reside, onde se estuda)](../anexos/aula9/apresentação%20pessoal%20em%20Árabe.pdf)
 - [Cinco pilares do Islão](../anexos/aula9/Pilares%20do%20Islao_arkane%20islame.pdf)
+
+## Aula 10 (2022-01-28)
+
+- [As vogais duplas na língua árabe (artigo indefinido)](../anexos/aula10/2022_%20As%20vogais%20duplas.pdf)
+- [Artigo definido](../anexos/aula10/2022_Artigo%20definido.pdf)
