@@ -27,4 +27,34 @@ cão | kelb | كَلب
 coração | chelb | قَلب
 Marrocos/pôr-do-sol | marrib | مَغرِب 
 rapaz | walad | وَلَد
-pirâmide | haram | هَرَم
+pirâmide | harram | هَرَم
+universidade | jamihá | جَامِعَة
+porta | báb | بَاب
+professor | ustád | أُستَاذ
+professora | ustáda | أُستَاذَة
+Lisboa | lisbuna | لِشبُونَة
+Porto | pur**t**o | بُورْطُو
+Porto | purto | بُورْتُو
+ilha | jazeera | جَزِيرَة
+livro | kitaab | كِتَاب
+escritor | kaatib | كَاتِب
+escritora | kaatiba | كَاتِبَة
+carro/viatura | saiaara | سَيَّارَة
+avião | **t**aira | طَائِرَة
+viajante(m) | mussaafir | 
+viajante(f) | mussaafira | 
+ida/partida | daaab | 
+volta/chegada | wu**s**ul | 
+estrada | tarrik | 
+aeroporto | mataar | 
+mala | haatiba | 
+lugar | makaan | 
+lugares | amaakin | 
+bonito | jaamil | 
+bonita | jaamila | 
+grande(m) | kabiir |
+grande(f) | kabiira |
+famoso | mashuur | 
+famosa | mashuura | 
+proibido | mamnuha | 
+conhecido | maaruf | 

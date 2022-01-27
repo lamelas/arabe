@@ -18,6 +18,12 @@ nav:
         - Sumários: aulas/index.md
 plugins:
     - search
+    - minify:
+        minify_html: true
+        minify_js: true
+        minify_css: true
+        htmlmin_opts:
+            remove_comments: true
 markdown_extensions:
     - smarty
     - tables
@@ -25,6 +31,7 @@ extra_css:
     - css/overrides.css
     - css/colors.css
 extra_javascript:
+    - javascripts/highlight.js
+    - javascripts/glossary.js
     - https://cdnjs.cloudflare.com/ajax/libs/tablesort/5.2.1/tablesort.min.js
     - javascripts/tablesort.js
-    - javascripts/highlight.js
