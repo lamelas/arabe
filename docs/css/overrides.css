@@ -24,3 +24,7 @@ table tr td:last-of-type {
     vertical-align: middle;
     text-align: center !important;
 }
+
+th:empty {
+    display: none;
+}
