@@ -5,6 +5,7 @@ theme:
     custom_dir: theme_overrides/
     logo: img/logo.png
     favicon: img/logo.png
+    language: pt
     features:
     - navigation.tabs
     - navigation.expand

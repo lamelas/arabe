@@ -57,7 +57,7 @@
 - [Guião para transliteração de ditongos do português](../aula12/../anexos/aula12/Guiao%20de%20escrever%20nomes%20em%20arabe_%20que%20diptongo.pdf)
 - [Ramadão - Jejum em vários contextos](../anexos/aula12/Ramadão_%20jejum%20praticado%20em%20vários%20contextos.pdf)
 
-## Aula 13 (2022-02-17)
+## [Aula 13 (2022-02-17)](aula13.md)
 
 - [Leitura de frase em árabe](../anexos/aula13/2021_Leitura%20de%20frases%20curtas%20com%20vogais%20breves%20e%20longas_.pdf)
 
