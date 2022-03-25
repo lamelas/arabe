@@ -2,9 +2,9 @@ table tr td:first-of-type {
     font-size: 20px;
 }
 
-table tr td:last-of-type {
+/*table tr td:last-of-type {
     font-size: 30px;
-}
+}*/
 
 :lang(ar) {
     font-size: 50px;

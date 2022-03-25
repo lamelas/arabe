@@ -4,15 +4,26 @@
 
 ## Aula 2 (2021-11-04)
 
-Primeiro grupo de letras: ب ت ث ن ي
+- Primeiro grupo de letras: ب ت ث ن ي
 
 ## Aula 3 (2021-11-11)
 
+- Segundo grupo de letras: ج خ ح
+- Terceiro grupo de letras: س ش
+
 ## Aula 4 (2021-11-18)
+
+- Quarto grupo: ف ق
+- Quinto grupo: ر ز
+- Sexto grupo: د ذ
 
 ## Aula 5 (2021-12-02)
 
+- Sétimo grupo: ص ض ظ ط=
+
 ## Aula 6 (2021-12-09)
+
+- Oitavo grupo: ع غ ك ل م ه و 
 
 ## Aula 7 (2021-12-16)
 
@@ -58,3 +69,17 @@ Primeiro grupo de letras: ب ت ث ن ي
 
 - [Diálogo apresentação](../anexos/aula15/Diálogo_Apresentação_Profissão.pdf)
 - [As profissões em língua árabe](../anexos/aula15/As%20profissões%20na%20língua%20árabe.pdf)
+
+## Aula 16 (2022-03-10)
+
+- Continuação da aula anterior
+- Apresentação
+
+## Aula 17 (2022-03-17)
+
+**Em atraso**
+
+## Aula 18 (2022-03-24)
+
+- [Verbo "querer" no contexto de comunicação](../anexos/aula18/contexto%20de%20comida%20e%20café%20_%20ÀRABE.pdf)
+- [Verbo "querer" no contexto de comunicação com transliteração](../anexos/aula18/Ficha_com_%20a%20transliteração.pdf)

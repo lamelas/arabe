@@ -1,3 +1,10 @@
+## Profissões
+
+## Comida
+
+## Expressões de cortesia
+
+
 Português | Transliteração| Árabe 
 ----------- |-------------- |------
 rapariga | bint | بِنت 
@@ -62,3 +69,5 @@ lua | alkamar | قَمَر
 sol | shams | شَمس
 açúcar | açúcar | سُكَّر
 azeitona | azeituna | زَيتُونَة
+água | maah | ماءَ
+água (em dialecto egípcio) | mayya | 
