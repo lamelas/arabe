@@ -84,15 +84,15 @@
 - [Verbo "querer" no contexto de comunicação](../anexos/aula18/contexto%20de%20comida%20e%20café%20_%20ÀRABE.pdf)
 - [Verbo "querer" no contexto de comunicação com transliteração](../anexos/aula18/Ficha_com_%20a%20transliteração.pdf)
 
-## [Aula 20 (2022-03-31)](aula20.md)
+## [Aula 19 (2022-03-31)](aula20.md)
 
 - Teste de árabe
 
-## Aula 21 (2022-04-07)
+## Aula 20 (2022-04-07)
 
 - [Dias da semana em árabe](..anexos/../../anexos/aula21/Ficha%20DIAS%20DA%20SEMANA_ÁRABE.pdf)
 
-## Aula 22 (2022-04-21)
+## Aula 21 (2022-04-21)
 
 - [Números (0 a 10)](../anexos/aula22/2022_%20Ficha_%20numeros%20em%20arabe_%200%20_%2010.pdf)
 - [Números (20 a 30)](..anexos/../../anexos/aula22/2022_%20ficha%20_%20numeros%20em%20arabe_%2020_%2030_%20etc_.pdf)
