@@ -41,7 +41,7 @@
 - [Apresentação pessoal em árabe (nome, nacionalidade, onde se reside, onde se estuda)](../anexos/aula9/apresentação%20pessoal%20em%20Árabe.pdf)
 - [Cinco pilares do Islão](../anexos/aula9/Pilares%20do%20Islao_arkane%20islame.pdf)
 
-## Aula 10 (2022-01-28)
+## [Aula 10 (2022-01-28)](aula10.md)
 
 - [As **vogais** duplas na língua árabe (artigo indefinido)](../anexos/aula10/2022_%20As%20vogais%20duplas.pdf)
 - [Artigo definido](../anexos/aula10/2022_Artigo%20definido.pdf)
@@ -83,3 +83,17 @@
 
 - [Verbo "querer" no contexto de comunicação](../anexos/aula18/contexto%20de%20comida%20e%20café%20_%20ÀRABE.pdf)
 - [Verbo "querer" no contexto de comunicação com transliteração](../anexos/aula18/Ficha_com_%20a%20transliteração.pdf)
+
+## [Aula 20 (2022-03-31)](aula20.md)
+
+- Teste de árabe
+
+## Aula 21 (2022-04-07)
+
+- [Dias da semana em árabe](..anexos/../../anexos/aula21/Ficha%20DIAS%20DA%20SEMANA_ÁRABE.pdf)
+
+## Aula 22 (2022-04-21)
+
+- [Números (0 a 10)](../anexos/aula22/2022_%20Ficha_%20numeros%20em%20arabe_%200%20_%2010.pdf)
+- [Números (20 a 30)](..anexos/../../anexos/aula22/2022_%20ficha%20_%20numeros%20em%20arabe_%2020_%2030_%20etc_.pdf)
+- [Números (completo)](..anexos/../../anexos/aula22/2022_Numeros_%20na%20Lingua%20Árabe_%20completo.pdf)

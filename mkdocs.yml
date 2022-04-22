@@ -17,7 +17,6 @@ nav:
     - Programa: programa.md
     - Aulas:
         - Sumários: aulas/index.md
-        - Aula 10: aulas/aula10.md
 plugins:
     - search
 markdown_extensions:
