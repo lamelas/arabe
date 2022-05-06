@@ -1,5 +1,10 @@
 ## Profissões
 
+Português | Transliteração| Árabe
+----------- |-------------- |------
+Médico (m) | tábib | طَبيب
+Médica (f) | tábiba | طَبيبَة
+
 ## Comida
 
 ## Expressões de cortesia

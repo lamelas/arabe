@@ -84,16 +84,26 @@
 - [Verbo "querer" no contexto de comunicação](../anexos/aula18/contexto%20de%20comida%20e%20café%20_%20ÀRABE.pdf)
 - [Verbo "querer" no contexto de comunicação com transliteração](../anexos/aula18/Ficha_com_%20a%20transliteração.pdf)
 
-## [Aula 19 (2022-03-31)](aula20.md)
+## [Aula 19 (2022-03-31)](aula19.md)
 
 - Teste de árabe
 
 ## Aula 20 (2022-04-07)
 
-- [Dias da semana em árabe](..anexos/../../anexos/aula21/Ficha%20DIAS%20DA%20SEMANA_ÁRABE.pdf)
+- [Dias da semana em árabe](../anexos/aula20/Ficha%20DIAS%20DA%20SEMANA_ÁRABE.pdf)
 
 ## Aula 21 (2022-04-21)
 
-- [Números (0 a 10)](../anexos/aula22/2022_%20Ficha_%20numeros%20em%20arabe_%200%20_%2010.pdf)
-- [Números (20 a 30)](..anexos/../../anexos/aula22/2022_%20ficha%20_%20numeros%20em%20arabe_%2020_%2030_%20etc_.pdf)
-- [Números (completo)](..anexos/../../anexos/aula22/2022_Numeros_%20na%20Lingua%20Árabe_%20completo.pdf)
+- [Números (0 a 10)](../anexos/aula21/2022_%20Ficha_%20numeros%20em%20arabe_%200%20_%2010.pdf)
+- [Números (20 a 30)](../anexos/aula21/2022_%20ficha%20_%20numeros%20em%20arabe_%2020_%2030_%20etc_.pdf)
+- [Números (completo)](../anexos/aula21/2022_Numeros_%20na%20Lingua%20Árabe_%20completo.pdf)
+
+## Aula 22 (2022-04-28)
+
+- [As cores](../anexos/aula22/2022_%20ficha%20_%20numeros%20em%20arabe_%2020_%2030_%20etc_.pdf)
+
+## Aula 23 (2022-05-05)
+
+- [Actividade sobre os números](../anexos/aula23/2022_Atividade%20sobre%20os%20números-pdf.pdf)
+- [Actividade conhecimento lexical - as cores](../anexos/aula23/2022_Atividade_%20conhecimento%20lexical_As%20cores.pdf)
+- [Prática - Dias da Semana](../anexos/aula23/2022_Pr%C3%A1tica_%20Dias%20da%20semana-%20%C3%81rabe.pdf)
