@@ -1,0 +1,30 @@
+table tr td {
+    font-size: 20px;
+}
+
+/*table tr td:last-of-type {
+    font-size: 30px;
+}*/
+
+:lang(ar) {
+    font-size: 50px;
+}
+
+.md-typeset h1 {
+    margin-bottom: 0.5em;
+}
+
+.md-typeset table:not([class]) th,
+.md-typeset table:not([class]) td {
+    padding: 0 1.5em;
+}
+
+.md-typeset table:not([class]) th, 
+.md-typeset table:not([class]) td {
+    vertical-align: middle;
+    text-align: center !important;
+}
+
+th:empty {
+    display: none;
+}
