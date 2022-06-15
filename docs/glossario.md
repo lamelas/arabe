@@ -1,3 +1,14 @@
+## Família
+
+Português | Transliteração| Árabe
+----------- |-------------- |------
+Pai | ab | أَب
+Mãe | um | أُم
+Irmão | ach | أَخ
+Irmã  | ucht | أُخت
+Avô | jad | جَد
+Avó | jaddah | جَدَّة
+
 ## Profissões
 
 Português | Transliteração| Árabe
@@ -8,7 +19,6 @@ Médica (f) | tábiba | طَبيبَة
 ## Comida
 
 ## Expressões de cortesia
-
 
 Português | Transliteração| Árabe 
 ----------- |-------------- |------
@@ -76,3 +86,4 @@ açúcar | açúcar | سُكَّر
 azeitona | azeituna | زَيتُونَة
 água | maah | ماءَ
 água (em dialecto egípcio) | mayya | 
+e/imigração | hijra | هِجرَة
